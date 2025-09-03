@@ -1,0 +1,33 @@
+FL_9_DO,Q1_label,count,n,pct
+HR_ai,,9,27,0.3333
+HR_ai,Very likely AI-generated,6,27,0.2222
+HR_ai,Very likely human-written,4,27,0.1481
+HR_ai,Somewhat likely AI-generated,3,27,0.1111
+HR_ai,Definitely AI-generated,3,27,0.1111
+HR_ai,Definitely human-written,1,27,0.037
+HR_ai,Somewhat likely human-written,1,27,0.037
+HR_ai,Equally likely human or AI-generated,0,27,0.0
+HR_human,,7,22,0.3182
+HR_human,Somewhat likely human-written,5,22,0.2273
+HR_human,Somewhat likely AI-generated,4,22,0.1818
+HR_human,Very likely human-written,3,22,0.1364
+HR_human,Very likely AI-generated,3,22,0.1364
+HR_human,Definitely human-written,0,22,0.0
+HR_human,Equally likely human or AI-generated,0,22,0.0
+HR_human,Definitely AI-generated,0,22,0.0
+Med_ai,Somewhat likely AI-generated,7,25,0.28
+Med_ai,Very likely AI-generated,7,25,0.28
+Med_ai,Somewhat likely human-written,4,25,0.16
+Med_ai,,4,25,0.16
+Med_ai,Very likely human-written,2,25,0.08
+Med_ai,Definitely AI-generated,1,25,0.04
+Med_ai,Definitely human-written,0,25,0.0
+Med_ai,Equally likely human or AI-generated,0,25,0.0
+Med_human,Very likely AI-generated,12,26,0.4615
+Med_human,Somewhat likely AI-generated,4,26,0.1538
+Med_human,Very likely human-written,3,26,0.1154
+Med_human,,3,26,0.1154
+Med_human,Definitely human-written,2,26,0.0769
+Med_human,Somewhat likely human-written,1,26,0.0385
+Med_human,Definitely AI-generated,1,26,0.0385
+Med_human,Equally likely human or AI-generated,0,26,0.0
