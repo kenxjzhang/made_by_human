@@ -134,7 +134,7 @@ This guideline provides a template and best practices for creating additional, c
 
 By adhering to this template, we can ensure that every report used in the study is a high-quality, credible, and standardized stimulus, which will significantly strengthen the validity and reliability of our experimental findings.
 
-### Pseudonyms 
+### Pseudonyms and Highest stocks
 Kforce (KFRC) to Kinetic Workforce (KNTC) _Recommended_
 48.89 on March 31
 32.60 on August 29

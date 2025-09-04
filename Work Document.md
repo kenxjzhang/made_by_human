@@ -366,3 +366,12 @@ Go back and see the heterogeneity in regression
 Age?
 
 Value 'human+AI', "AI"
+
+### 2025-09-04 14:25
+Framing needs to change?
+- [ ] Timetable and presentation
+- [ ] The measurement is hard to adapt from literature
+Multi-layered evaluation system
+
+Google doc for AI Mechanism:
+https://docs.google.com/document/d/1e3vrFg7Um_sWMIzQqO9yyqEqgBG9pAT6Qw-tXhPpQHE/edit?tab=t.0
