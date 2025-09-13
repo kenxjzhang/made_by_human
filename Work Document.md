@@ -344,7 +344,8 @@ Song et al. (2023):
 
 
 2025-09-02 10:36
-Here are the things I found helpful from Long el al. (2025)
+Here are the things I found helpful from Long el al. (2025) [[@longDisclosureDilemmaHow2025]]
+
 ==Theory of why transparency may not always lead to good feedback from Long et al. (2025)==
 >Although transparency is a generally  recommended approach for anything that may concern one’s audience, research shows that  disclosure of AI use may significantly undermine the message and its sponsor.
 
@@ -369,9 +370,60 @@ Value 'human+AI', "AI"
 
 ### 2025-09-04 14:25
 Framing needs to change?
-- [ ] Timetable and presentation
+- [x] Timetable and presentation
+	Oct 24
 - [ ] The measurement is hard to adapt from literature
 Multi-layered evaluation system
 
-Google doc for AI Mechanism:
+**Google doc for AI Mechanism:**
 https://docs.google.com/document/d/1e3vrFg7Um_sWMIzQqO9yyqEqgBG9pAT6Qw-tXhPpQHE/edit?tab=t.0
+
+### 2025-09-05 09:24
+- Today continue to search for specific measures
+- Also think about what are the other mechanisms to explain the pattern
+
+Metzger et al. (2010) shows that the credibility is mostly through heuristic/non-deliberate way
+>Results also indicate that rather than systematically processing information, participants
+routinely invoked cognitive heuristics to evaluate the credibility of information and sources
+online.
+
+
+
+### 2025-09-07 10:16
+P229 in Altman(2023) Lay people's evaluation of expert in finance uses peripheral cues; ==but how they picked up the cues are not explored too much==
+
+
+### 2025-09-09 10:48
+I look into the literature review on AI advisor in advice taking
+Pretty good summary, it is directly relevant to the 1) AI, and 2) advice taking
+I don't find lots of 'label' or 'disclosure' are about the human-AI interaction
+Most of the transparency is about "how AI works" but not about "how AI and human work together".
+Nevertheless, I should look into the "algorithmic transparency" a little bit because they have interesting results of how increasing the transparency of algorithm would decrease the advice taking
+
+### 2025-09-10 09:22
+New articles from IS/OB about advice and AI:
+**A very good literature review on advice and AI:**
+Baines et al. (2024)
+
+Lehmann et al. (2022)
+Bertrand et al. (2022)
+Glikson and Woolley (2020)
+Rossi and Utkus (2020)
+
+**Transparency of algorithm cause problem in advice following:**
+Saragih and Morrison (2022)
+Willford (2021)
+You et al. (2022)
+
+2025-09-11 08:48
+[[@longDisclosureDilemmaHow2025]] is maybe the closest paper with us
+[[@toffTheyCouldJust2024]] is also good
+
+2025-09-12 14:22
+Attitudes towards AI efficiency
+General idea of AI
+"Fully use" or "Some areas"
+
+	"Prior expectation of AI use in finance industry"
+Where does the incompetence coming from?
+"Replacement or Augmented"?
