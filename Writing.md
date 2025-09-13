@@ -52,6 +52,24 @@ Cathy et al. (2025, MS forthcoming) talks about the [[Emails from Andras#2025-08
 >It is welldocumented that new technologies are often met with skepticism. Studies suggest a general sentiment of hesitancy (e.g., von Eschenbach, 2021) and mild to moderate aversion (e.g., Castelo & Ward, 2021; Jussupow et al., 2020) towards AI and computer algorithms more broadly. Also, when told that AI was involved in the creation of communicative content, there was some reporting of preference against or lower evaluation of that content (e.g., Airbnb profile writing; Jakesch et al., 2019; email writing; Liu et al., 2022; generated paintings; Ragot et al., 2020; music creation; Shank et al., 2023; translation of written content; Asscher & Glikson, 2023). Within health contexts especially, some studies show that people tend to prefer human practitioners over AI-based technologies like chatbots when receiving consultation about health conditions (e.g., Miles et al., 2021), citing lack of personalization and incompetence in addressing individual needs as some of the reasons for hesitancy (Longoni et al., 2019).
 >For example, Ragot et al. (2020) found that when people perceived AI as the creator of artwork, they evaluated the art more negatively (compared to human-generated artwork) in terms of beauty, novelty, or meaningfulness. Specifically in the context of health messaging, Karinshak et al. (2023) examined how source disclosure impact people’s ratings of health campaigns messages. **(From Lim and Schmälzle, 2025) (Don't plagarize.)**
 
+>In terms of decision-maker preferences between human and AI advisors, some research has found that decision-makers prefer human over AI advice (e.g., [Dietvorst et al., 2015](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref25); [Larkin et al., 2022](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref72)). This is one form of what is often referred to as algorithm aversion, or general negative attitudes and behaviors toward the algorithm ([Logg et al., 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref81); [Lai et al., 2021](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref69)). For example, [Larkin et al. (2022)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref72) found that participants indicated they would prefer to receive recommendations from a human expert versus AI in financial and, even more so, healthcare and contexts. Similarly, [Dietvorst et al. (2015)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref25) found that, across forecasting tasks on student performance and airline performance, decision-makers consistently chose human judgment when choosing between AI forecasts and either their own forecasts or the forecasts of another human participant.
+>
+>However, other research has found the converse (e.g., [Logg et al., 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref81); [Kennedy et al., 2022](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref62)). For example, [Kennedy et al. (2022)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref62) found that in geopolitical and criminal justice forecasting experiments, decision makers placed a higher weight on AI advice (i.e., forecasting algorithms) relative to several kinds of human advice (i.e., aggregate of expert decision-maker responses; aggregate of non-expert decision-maker responses)–in other words, algorithm appreciation rather than aversion.
+
+### Credibility
+Credibility is both a systematic and heuristic evaluation.
+
+Metzger et al. (2010) shows that the credibility is mostly through heuristic/non-deliberate way
+>Results also indicate that rather than systematically processing information, participants
+routinely invoked cognitive heuristics to evaluate the credibility of information and sources
+online.
+
+### Dilemma of transparency and disclosure
+[[@longDisclosureDilemmaHow2025]] found that  message will lose credibility after revealing the AI-label
+Our work is different because we only say the AI 'involved'
+[[@toffTheyCouldJust2024]]
+
+For these papers, they think about the AI label on message credibility, but they haven't looked into the credibility of the disclosure itself.
 
 
 
@@ -63,7 +81,13 @@ Having too little transparency may bring concerns about the AI misuse.
 A general reaction for organizations to deal with such problem is revealing less information as possible.
 However, more and more regulations are coming to regulate the disclosure of AI.
 For example, regulators now debate whether AI use must be flagged at the section level (i.e., specifying exactly how or where AI was used) or merely in aggregate (i.e., simply noting that AI was used) (SEC, 2023).
-Though 
+
+From Baines et al. (2024)
+>4.2.1.1.4 Transparency
+>
+>An additional advisor characteristic that impacts advice utilization by decision-makers is the amount of access that advisors provide to their reasoning and decision process. Specifically, research on human advice has contended that advice discounting may occur partially due to decision-makers’ lack of access to their advisors’ internal justifications and evidence for formulating advice ([Bonaccio and Dalal, 2006](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref10)). Thus, a parallel may be drawn here: a lack of access to and understanding of the underlying computational processes of AI advisors may reduce decision-makers’ likelihood to utilize the AI advice ([Linardatos et al., 2020](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref78)).
+>
+>Although much research suggests the benefits of transparency of AI advice in terms of the cognitive/affective outcomes of advice (as discussed in a subsequent section), transparency has also been studied with regard to advice utilization (the current focus), with mixed findings. Specifically, some research has found that transparency does not always increase decision-maker advice utilization ([Willford, 2021](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref142); [Lehmann et al., 2022](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref74)). For instance, [Lehmann et al. (2022)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref74) found that the impact of transparency on advice utilization is mediated by the extent to which participants perceive the advice to be valuable, such that participants who interact with a transparently designed algorithm may underestimate its utility (value) if it is simple but accurately estimate its utility if it is complex ([Lehmann et al., 2022](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref74)). [Willford (2021)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref142) also found that participants who interacted with transparent AI relied on it less. This supports the idea that if transparency leads to a lower evaluation of the AI advisor’s utility (i.e., if, once the metaphorical “black box” is opened, what lies inside no longer seems impressive), it does not increase advice utilization. A different explanation proposed by [You et al. (2022)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref145) suggests that the occasionally negative influence of transparency on advice utilization may stem from increased cognitive burden—that is, information provided about AI functioning is complex to the extent that it introduces a detrimentally high cognitive load. Future research should therefore study the circumstances under which AI transparency yields positive versus negative effects—and, in cases involving negative effects, which explanation receives more support.
 
 ### Contribution
 Our paper provides two features on AI disclosure that are new and important to literature.
@@ -137,8 +161,10 @@ After preparing the first
 
 ### Report manipulation
 Participants will be randomly assigned to one of nine experimental conditions. Eight of these conditions consist of a 2 (Information Gathering: AI vs. No AI) x 2 (Analysis: AI vs. No AI) x 2 (Recommendation: AI vs. No AI) between-subjects factorial design. The ninth condition, included for exploratory purposes, is a 'No Disclosure' group, where I remove the "Generative AI Disclosure" section in the investment report. Each participant will only be exposed to one of the nine conditions.
-
 **
+
+We included the "No" because 1) there are real use of them in the industry to separate themselves with the others, and 2) [[@longDisclosureDilemmaHow2025]] shows there is no difference between the two. It is interesting that we found opposite results with them.
+
 # Pilot study
 We implemented our pilot study with X participants. Compared to the actual survey, we implemented extra pre-testing questions.
 There are two sets of pre-testing questions. One set asks questions about the quality of the reports, and the other set asks the participants to guess the study purpose. The former is necessary because we want to 
