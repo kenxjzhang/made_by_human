@@ -24,8 +24,18 @@ Rodríguez et al. (2024)
 
 We want to 'replicate' the general mechanism: peripheral and central
 What do they mean?
-Peripheral: emotional, trust
-Central: Higher quality of information, expertise
+Peripheral: emotional, trust (benevolence, integrity)
+Central: Higher quality of information, expertise (competence)
+
+### Manipulation 2
+
+Another manipulation: 
+simply remove the one without using, so remove the "No" in the AI use
+Mix 1 and Mix 2
+By doing so, we are able to understand the role of "consistency"
+Direct implication: do not disclose the one that you did not use
+
+
 
 ==Remember to exclude the None group if we ask the generative AI disclosure problems==
 
@@ -60,6 +70,7 @@ Mechanism 1 is that the disclosure with "No" would elicit the
 
 ### Three mechanisms?
 1. **Evaluative Frame Shift**: Prime effect of the disclosure
+	1. The explicit disclosure of production process break the epistemic authority of the report, causing the distrust and skepticism
 2. **Source Skepticism**: Perceived validity of disclosure (to explain the diffs across conditions)
 3. **Perceived Competence**: Fundamental feelings towards AI and AI-human collaboration
 
@@ -78,6 +89,7 @@ Group 2: thinks AI is good
 
 Radical transparency of YYY may be a good thing
 
+Coherence in Perceived Competence: 
 
 
 
@@ -90,30 +102,36 @@ Radical transparency of YYY may be a good thing
 - "Please rate how important each of the following factors was in your final investment decision." (Slider: 0 = _Not at all important_ to 100 = _Extremely important_)
     
     - The company's financial performance
-        
     - The overall market trends
-        
     - **The methodology used to generate the report**
-        
     - The expertise of the analyst
 
+- “I made the investment decision without any influence of report”
+- Or a slide bar of how much did they influence by the Report Recommendation (Left: self analysis; Right: following the recommendation.) We can also specify: 100 means that you made the investment decision because the you trust the report; 0 means that you did not trust the report and made your own decision
+- Solipsistic Introjection?
+- 
 # Disclosure Skeptism
-In the report, the author disclosed the use of Generative AI in the report, to what extent do you think it reflects the reality? 
+"In the report, the author disclosed the use of Generative AI in the report, to what extent do you think it reflects the actual use in the report?"
 - Or, "to what extent do you think the author reports truthfully about the actual use of AI?"
+
+"I believe the Generative AI use disclosure is based on facts/.."
+"I concern that the Generative AI disclosure is not reported truthfully." (R)
+"I believe the analyst is honest in the Generative AI disclosure."
 
 From Bodoff and Hirsch (2023)
 >We measure disclosure credibility by directly asking the experiment participants
-questions based on Meyer’s (1988) credibility model. Meyer suggests a credibility scale model
-which is based on two factors: believability and community concern. The community concern
-is relevant to Meyer’s study since it is focused on newspaper credibility which involves the
-community’s interest or affiliation. We use only the believability factor and two other items
-that are relevant to our setting: (1) tells the whole story, (2) believable and (3) trustworthy. The
-items were (1)“The information provided in the management comment does not tell the whole
-story” (reverse coding), (2)“The information provided in the management comment is
-believable” and (3):“The information provided in the management comment is trustworthy”. Each item was measured using a five-level Likert scale.
+questions based on Meyer’s (1988) credibility model. Meyer suggests a credibility scale model which is based on two factors: believability and community concern. The community concern is relevant to Meyer’s study since it is focused on newspaper credibility which involves the community’s interest or affiliation. We use only the believability factor and two other items that are relevant to our setting: (1) tells the whole story, (2) believable and (3) trustworthy. The terms were (1)“The information provided in the management comment does not tell the whole story” (reverse coding), (2)“The information provided in the management comment is believable” and (3):“The information provided in the management comment is trustworthy”. Each item was measured using a five-level Likert scale.
 
-# Perceived Competence
-**Trustworthiness and Expertise**
+From Ford et al. (1990, JCR)
+"The report includes a disclaimer of the Generative AI use in preparing the report. How likely is it the disclosure is true?"
+>Two nine-point skepticism measures were developed: (1) "How likely is it that this claim is true?" anchored by "not at all likely" and "extremely likely," and (2) “How skeptical are you about the truth of this claim?" anchored by "not at all skeptical" and "extremely skeptical.
+
+
+
+==Not too many things happen in here, just capture the truthfulness and that's it. ==
+
+# Perceived traits of analyst and firm
+### **Trustworthiness and Expertise**
 
 Source credibility in Behm-Morawitz et al. (2025)
 >Source Credibility  Source credibility was measured based on Lombardi et al.’s (2014) and McCroskey and Teven’s (1999) measures of source characteristics related to trustworthiness and expertise. Participants were asked to rate the source they used (ChatGPT, Google, or AP News) on five characteristics: fair, accurate, credible, trustworthy, and believable.
@@ -124,5 +142,70 @@ Trustworthiness
 
 Questions about perceived firm reputation and status
 
+### **Competence** (Ability & Expertise)
+
+- I feel confident in this analyst's abilities.
+    
+- The analyst is skilled in financial analysis.
+    
+- The analyst has the expertise needed to make good investment recommendations.
+    
+
+### **Benevolence** (Care & Good Intentions)
+
+- The analyst seems to have my best interests at heart.
+    
+- The analyst likely cares about the welfare of investors like me.
+    
+- I believe the analyst genuinely wants to help me make a good investment decision.
+    
+
+### **Integrity** (Honesty & Principles)
+
+- The analyst seems honest.
+    
+- The analyst appears to have a strong sense of moral principles.
+    
+- I believe the analyst would be truthful in their communications.
+
+### **Competence - Firm** (Capability & Effectiveness)
+
+- This firm is highly competent in the investment industry.
+- The firm has the resources and expertise to provide high-quality investment advice.
+- I am confident in this firm's ability to perform its job well.
+    
+
+### **Benevolence - Firm** (Client-Focus & Good Will)
+
+- This firm puts its clients' interests ahead of its own.
+- This firm seems to genuinely care about its clients' financial success.
+- Helping clients is a top priority at this firm.
+
+### **Integrity - Firm** (Ethics & Fairness)
+
+- This firm operates with a high degree of integrity.
+- The firm adheres to sound ethical principles.
+- I believe this firm is honest in its dealings with clients.
+ 
+ ==Maybe worth randomizing the order of three traits==
+
 ### It would have been better with AI
 Yanuo reminds me of a possible scenario where people doesn't necessarily love AI. The under-use of AI just serve as a possibility that "the report might get better if the AI is involved."
+
+Maybe just directly ask "Do you think (a different use) of AI will improve the quality of the report?"
+"Or, if there is another use of AI, will you change your answer?" 
+
+One potential mechanism:
+- people exert less effort in analyzing the report when they see all AI labels
+Is the lowered following rate a sign of "distrust" or "discretion"?
+
+"Verdian Equity Research is working on improving the quality of their investment report, do you think there is a better way to incorporate the AI use in their investment report preparation?"
+
+
+
+### Memo
+- Adjust the bonus to 2 extra 200 pounds instead of 3
+- What should we put into the "None" group for the disclaimer questions?
+	- "The report has Generative AI involvement. Now please answer questions..."
+	- It could be interesting as a 'artificial shock' to test the Mechanism 1 -- we put back the cue and see if we can do the same frame shift
+	- But the scenario is different -- use in caution
