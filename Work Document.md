@@ -427,3 +427,33 @@ General idea of AI
 	"Prior expectation of AI use in finance industry"
 Where does the incompetence coming from?
 "Replacement or Augmented"?
+
+
+### 2025-09-17 10:50 Changes in Qualtrics for Experiment #2:
+- [x] Adjust two bonus instead of 3
+- [x]  Introduction change date to Sep 30 and two bonus
+- [x] Change date to Sep 30 and lottery in each report and main investment question block
+- [x] I also change the date in the report (HR_AI) to match the 'recommendation in Sep'
+- [x] Add questions for Mechanism 1,2,3
+	- [x] Randomization
+- [x] Change the AI questions in Demographic section
+- [x] Change the survey flow
+- [x] Randomize the order of analyst and firm questions; Also within the question, I randomize the options.
+
+### 2025-09-18 11:34 Chatting with Kevin
+AI is obviously better; then show me people don't like it
+The prior knowledge is quite interesting; I will measure it in the second experiment
+Incorrect beliefs
+Disclosure about GMO product
+
+
+### 2025-09-23 13:38 Revise the final design and do the qualtrics
+- [x] Revise the Google Doc and have a clean version of questions
+- [x] Implement the Qualtrics
+	- [x] Conduct and randomize the Mechanism 1 questions
+
+Stefan:
+Neutral about transparency
+What is the mechanism? I mean, what is the deeply about how seeing an AI disclosure change our evaluation to a product? What's the connection and distinction from seeing a gender or race information? How does it differently from seeing a qualification for environmental or certification of some kind?
+Stefan also mentioned an interesting potential field experiment using board game to facilitate the gender homophily
+

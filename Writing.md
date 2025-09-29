@@ -48,6 +48,11 @@ However, our research try to show that the productivity, as somewhat measured ob
 Asktitas (2025) shows that human-AI collaboration is prevalent in academic writing. 
 More research is on the topic. 
 Cathy et al. (2025, MS forthcoming) talks about the [[Emails from Andras#2025-08-18 09 13]]
+[[@caoManVsMachine2024]] uses AI-human financial analyst and compare the productivity between the two.
+
+
+
+
 ### AI label effects have been tested in...
 >It is welldocumented that new technologies are often met with skepticism. Studies suggest a general sentiment of hesitancy (e.g., von Eschenbach, 2021) and mild to moderate aversion (e.g., Castelo & Ward, 2021; Jussupow et al., 2020) towards AI and computer algorithms more broadly. Also, when told that AI was involved in the creation of communicative content, there was some reporting of preference against or lower evaluation of that content (e.g., Airbnb profile writing; Jakesch et al., 2019; email writing; Liu et al., 2022; generated paintings; Ragot et al., 2020; music creation; Shank et al., 2023; translation of written content; Asscher & Glikson, 2023). Within health contexts especially, some studies show that people tend to prefer human practitioners over AI-based technologies like chatbots when receiving consultation about health conditions (e.g., Miles et al., 2021), citing lack of personalization and incompetence in addressing individual needs as some of the reasons for hesitancy (Longoni et al., 2019).
 >For example, Ragot et al. (2020) found that when people perceived AI as the creator of artwork, they evaluated the art more negatively (compared to human-generated artwork) in terms of beauty, novelty, or meaningfulness. Specifically in the context of health messaging, Karinshak et al. (2023) examined how source disclosure impact people’s ratings of health campaigns messages. **(From Lim and Schmälzle, 2025) (Don't plagarize.)**
@@ -60,14 +65,16 @@ Cathy et al. (2025, MS forthcoming) talks about the [[Emails from Andras#2025-08
 Credibility is both a systematic and heuristic evaluation.
 
 Metzger et al. (2010) shows that the credibility is mostly through heuristic/non-deliberate way
->Results also indicate that rather than systematically processing information, participants
-routinely invoked cognitive heuristics to evaluate the credibility of information and sources
-online.
+>Results also indicate that rather than systematically processing information, participants routinely invoked cognitive heuristics to evaluate the credibility of information and sources online.
 
 ### Dilemma of transparency and disclosure
 [[@longDisclosureDilemmaHow2025]] found that  message will lose credibility after revealing the AI-label
 Our work is different because we only say the AI 'involved'
 [[@toffTheyCouldJust2024]]
+[[@schilkeTransparencyDilemmaHow2025|Schilke et al. (2025)]]
+
+
+
 
 For these papers, they think about the AI label on message credibility, but they haven't looked into the credibility of the disclosure itself.
 
@@ -168,6 +175,15 @@ We included the "No" because 1) there are real use of them in the industry to se
 # Pilot study
 We implemented our pilot study with X participants. Compared to the actual survey, we implemented extra pre-testing questions.
 There are two sets of pre-testing questions. One set asks questions about the quality of the reports, and the other set asks the participants to guess the study purpose. The former is necessary because we want to 
+# Experiment #1
+
+
+# Experiment #2
+
+
+Meyer (1988) suggests a credibility model based on two factors: believability and community concern. We test the believability in the study and adapt a single-item question to ask to what extent do participants believe the Generative AI disclosure is a truthful representation of the actual AI use in report.
+
+
 
 
 ### Survey study

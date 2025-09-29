@@ -3,6 +3,94 @@ tags:
 created: 2025-08-28
 description: "This document is for Experiment #2, which examines the 'disclosure credibility' and 'source credibility'"
 ---
+2025-09-22 09:36
+Main goal of Experiment #2:
+1. Replicate the results in Experiment #1
+2. Explore the mechanisms to explain the patterns
+ 
+ # Experiment 2 Design - 2025-09-14 10:08
+
+### Mechanism 1
+1. Question: When you were reading the report, how would you describe the focus of your attention?
+
+ Response Scale: 7-point scale with detailed anchors
+
+|                                                                                         |     |     |                                                    |     |     |                                                                                                                   |
+| --------------------------------------------------------------------------------------- | --- | --- | -------------------------------------------------- | --- | --- | ----------------------------------------------------------------------------------------------------------------- |
+| 1                                                                                       | 2   | 3   | 4                                                  | 5   | 6   | 7                                                                                                                 |
+| Almost entirely on the content of the report (the facts, arguments, and recommendation) |     |     | An equal focus on both the content and its origins |     |     | Almost entirely on the process used to create the report (who wrote it, how it was prepared, and its credibility) |
+### Mechanism 2
+How truthful do you believe the disclosure statement was about the actual use of AI in the report?
+
+|                     |     |     |         |     |     |                     |
+| ------------------- | --- | --- | ------- | --- | --- | ------------------- |
+| 1                   | 2   | 3   | 4       | 5   | 6   | 7                   |
+| Not at all truthful |     |     | Neutral |     |     | Completely truthful |
+### Mechanism 3
+
+==Analyst:==
+
+Competence:
+
+- I feel confident in this analyst's abilities.
+
+- The analyst has good knowledge about the companies.
+
+- The analyst has the expertise needed to make good investment recommendations.
+
+Benevolence:
+
+- The analyst seems to have my best interests at heart.
+
+- The analyst likely cares about the welfare of investors like me.
+
+- I believe the analyst genuinely wants to help me make a good investment decision.
+
+Integrity:
+
+- The analyst seems honest.
+
+- The analyst appears to have a strong sense of moral principles.
+
+- I believe the analyst would be truthful in their communications.
+
+==Firm==
+
+Competence:
+
+- This firm is highly competent in the investment industry.
+
+- The firm has the resources and expertise to provide high-quality investment advice.
+
+- I am confident in this firm's ability to perform its job well.
+
+Benevolence:
+
+- This firm puts its clients' interests ahead of its own.
+
+- This firm seems to genuinely care about its clients' financial success.
+
+- Helping clients is a top priority at this firm.
+
+Integrity:
+
+- This firm operates with a high degree of integrity.
+
+- The firm adheres to sound ethical principles.
+
+- I believe this firm is honest in its dealings with clients.
+
+
+
+### Attitudes towards AI
+Please indicate the extent to which you agree or disagree with the following statements about artificial intelligence.
+7-point Likert scale (1 = Strongly Disagree, 7 = Strongly Agree)
+1. _AI_ has more advantages than disadvantages.
+2. I prefer technologies that do not feature _AI._ (R)
+3. When I think about _AI_, I have mostly positive feelings.
+
+
+# General thoughts
 Two competing mechanism:
 1.  People doubt the credibility of the Generative AI disclosure
 	1. Opens the new mechanism on how the doubt would interact with other factors (expertise/trust) 
@@ -204,8 +292,11 @@ Is the lowered following rate a sign of "distrust" or "discretion"?
 
 
 ### Memo
-- Adjust the bonus to 2 extra 200 pounds instead of 3
-- What should we put into the "None" group for the disclaimer questions?
+- Adjust the bonus to 2 extra 200 pounds instead of 3 ==DONE==
+- What should we put into the "None" group for the disclaimer questions? ==NO==
 	- "The report has Generative AI involvement. Now please answer questions..."
 	- It could be interesting as a 'artificial shock' to test the Mechanism 1 -- we put back the cue and see if we can do the same frame shift
 	- But the scenario is different -- use in caution
+- Add questions ==DONE==
+- Randomize the questions in Qualtrics ==DONE==
+
