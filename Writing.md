@@ -54,7 +54,7 @@ Cathy et al. (2025, MS forthcoming) talks about the [[Emails from Andras#2025-08
 
 
 ### AI label effects have been tested in...
->It is welldocumented that new technologies are often met with skepticism. Studies suggest a general sentiment of hesitancy (e.g., von Eschenbach, 2021) and mild to moderate aversion (e.g., Castelo & Ward, 2021; Jussupow et al., 2020) towards AI and computer algorithms more broadly. Also, when told that AI was involved in the creation of communicative content, there was some reporting of preference against or lower evaluation of that content (e.g., Airbnb profile writing; Jakesch et al., 2019; email writing; Liu et al., 2022; generated paintings; Ragot et al., 2020; music creation; Shank et al., 2023; translation of written content; Asscher & Glikson, 2023). Within health contexts especially, some studies show that people tend to prefer human practitioners over AI-based technologies like chatbots when receiving consultation about health conditions (e.g., Miles et al., 2021), citing lack of personalization and incompetence in addressing individual needs as some of the reasons for hesitancy (Longoni et al., 2019).
+>It is well documented that new technologies are often met with skepticism. Studies suggest a general sentiment of hesitancy (e.g., von Eschenbach, 2021) and mild to moderate aversion (e.g., Castelo & Ward, 2021; Jussupow et al., 2020) towards AI and computer algorithms more broadly. Also, when told that AI was involved in the creation of communicative content, there was some reporting of preference against or lower evaluation of that content (e.g., Airbnb profile writing; Jakesch et al., 2019; email writing; Liu et al., 2022; generated paintings; Ragot et al., 2020; music creation; Shank et al., 2023; translation of written content; Asscher & Glikson, 2023). Within health contexts especially, some studies show that people tend to prefer human practitioners over AI-based technologies like chatbots when receiving consultation about health conditions (e.g., Miles et al., 2021), citing lack of personalization and incompetence in addressing individual needs as some of the reasons for hesitancy (Longoni et al., 2019).
 >For example, Ragot et al. (2020) found that when people perceived AI as the creator of artwork, they evaluated the art more negatively (compared to human-generated artwork) in terms of beauty, novelty, or meaningfulness. Specifically in the context of health messaging, Karinshak et al. (2023) examined how source disclosure impact people’s ratings of health campaigns messages. **(From Lim and Schmälzle, 2025) (Don't plagarize.)**
 
 >In terms of decision-maker preferences between human and AI advisors, some research has found that decision-makers prefer human over AI advice (e.g., [Dietvorst et al., 2015](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref25); [Larkin et al., 2022](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref72)). This is one form of what is often referred to as algorithm aversion, or general negative attitudes and behaviors toward the algorithm ([Logg et al., 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref81); [Lai et al., 2021](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref69)). For example, [Larkin et al. (2022)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref72) found that participants indicated they would prefer to receive recommendations from a human expert versus AI in financial and, even more so, healthcare and contexts. Similarly, [Dietvorst et al. (2015)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref25) found that, across forecasting tasks on student performance and airline performance, decision-makers consistently chose human judgment when choosing between AI forecasts and either their own forecasts or the forecasts of another human participant.
@@ -237,3 +237,49 @@ Information collection - Argument - Decision
 Great -- here is my overall idea. 
 These three parts should be relatively easy to read.
 
+### Journal article as context
+**Sage Journals** (e.g., _Administrative Science Quarterly, Entrepreneurship Theory and Practice, Journal of Management, Journal of Marketing_, and others)
+
+Policy applies to all Sage journals.
+
+Highlights:
+
+- Generative AI content is allowed.
+- Use of AI tools must be disclosed clearly and in detail.
+- AI tools cannot be listed as an author of a paper.
+- AI tools may be used to improve the quality of language in a review of a paper but may not be used to generate review reports, decision letters or summaries of unpublished research.
+
+[Read the full Sage AI policy here](https://www.sagepub.com/journals/publication-ethics-policies/artificial-intelligence-policy).
+
+**Wiley** (e.g., _Contemporary Accounting Research (a journal I happen to be the editor-in-chief of), Econometrica, Journal of Accounting Research_, _Journal of Finance, Journal of Operations Management_, _Strategic Management Journal_, and others)
+
+Policy applies to all Wiley journals.
+
+Highlights:
+
+- Generative AI content is allowed.
+- Use of AI tools must be disclosed clearly and in detail.
+- AI tools cannot be listed as an author of a paper.
+- AI tools may be used on a limited basis for reviewing a paper (e.g., to improve the quality of feedback) but must be declared. This policy varies by journal. For instance, we ban the use of AI at CAR for reviewing.
+
+[Read the full Wiley AI policy here](https://authorservices.wiley.com/ethics-guidelines/index.html#22).
+
+**Academy of Management**
+
+Policy applies to all AOM publications.
+
+Highlights:
+
+- AI tools cannot be listed as an author of a paper.
+- AI tools cannot be used as a resource in reviewing a paper.
+- Use of AI tools are only allowed to support the following:
+
+- Spelling
+- Grammar
+- Data Collection/Analysis
+
+[Read the full AOM AI policy here](https://www.aom.org/publications/journals/publishing-with-aom/aom-artificial-intelligence-policy/).
+
+If you have any questions, please contact Joanne Pereira and her team.
+
+Partha

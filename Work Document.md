@@ -457,3 +457,35 @@ Neutral about transparency
 What is the mechanism? I mean, what is the deeply about how seeing an AI disclosure change our evaluation to a product? What's the connection and distinction from seeing a gender or race information? How does it differently from seeing a qualification for environmental or certification of some kind?
 Stefan also mentioned an interesting potential field experiment using board game to facilitate the gender homophily
 
+
+2025-10-02 10:11
+Trust towards report or human?
+Human: Reif et al. (2025) lazier and less competent; can be used to justify the choice of measuring analyst competence
+
+CSA Canadian Security regulation on AI usage: 
+https://www.blakes.com/insights/csa-provides-guidance-on-ai-disclosures-by-public-companies/#:~:text=The%20Notice%20provides%20that%20disclosure,investors%20to%20make%20informed%20decisions.
+>However, the CSA recognizes that not all Issuers will use AI systems in the same way or to the same extent, so disclosure should be commensurate with the materiality to the Issuer and focused on material information. There is also no “one size fits all” model for disclosure, which needs to be tailored to the Issuer, not boilerplate, and factual and balanced in order to avoid false, misleading or embellished claims — practices commonly referred to as “AI washing.”
+
+Texas Health Care disclosure of AI
+https://www.fenwick.com/insights/publications/the-new-regulatory-reality-for-ai-in-healthcare-how-certain-states-are-reshaping-compliance#:~:text=Under%20the%20Texas%20Responsible%20Artificial,used%20in%20diagnosis%20or%20treatment.
+>Under the Texas Responsible Artificial Intelligence Governance Act ([HB 149](https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00149F.htm), TRAIGA), signed into law on June 22, 2025, and effective January 1, 2026, health care providers must disclose to patients or their personal representatives when AI systems are used in diagnosis or treatment. This disclosure must be made before or at the time of interaction in clinical settings, except in emergencies, when it must be provided as soon as reasonably possible. The law is designed to ensure patients are fully informed about the involvement of AI in their care and allow them to make decisions accordingly. TRAIGA also includes a cure period, in which the company has 60 days after the receipt of a written notice of violation from the state attorney general to cure the alleged violation, provide supporting documentation to show the manner in which the violation was cured, and make any necessary changes to internal policies to prevent further such violations. However, it is unclear whether the failure to timely disclose AI use in diagnosis or treatment will be deemed curable under this mechanism.
+
+
+### 2025-10-03 14:00 Experiment 2 result
+[[asset/d3afb4290d64e589d0bc6b95b1c9191a_MD5.jpg|Open: image-8.png]]
+![[asset/d3afb4290d64e589d0bc6b95b1c9191a_MD5.jpg]]
+
+[[asset/ad616964c0f8f8c689f7ba43a26f4de7_MD5.jpg|Open: image-10.png]]
+![[asset/ad616964c0f8f8c689f7ba43a26f4de7_MD5.jpg]]Hi András,
+I have looked into the results from Experiment 2. I haven't conducted any statistical analysis so we should interpret these patterns with caution. However, the descriptive results are pretty interesting. Here are the things I documented:
+1. Experiment 2 replicates the first experiment results: No-disclosure and all-yes have the highest advice following rates. The difference between all-no and partial AI use is more significant than the first experiment, likely due to larger sample size.
+2. Mechanism 1 is partly true. We see people in the partial use group focus more on the process of preparing the report, and the No-disclosure group focus less. Though I don't see significant differences among four groups in focusing on the firm's performance.
+3. Mechanism 2 seems to be true. People in all-yes group are more likely to report believing that the disclosure is truthful. There seems to be no difference between all-no and partial.
+4. There are significant differences in the expertise, benevolence, and integrity towards the analyst and the firm. No-disclosure group is the highest, all-yes group is slightly undermined, and all-no and partial groups are the lowest. The pattern is stable across all categories.
+5. There is no difference in AI attitudes among the four groups. This is good, and I will conduct heterogeneity analysis based on the AI attitudes later.
+I will keep updating my findings. Thanks a lot!
+Best,
+Ken
+
+Pull back the curtain
+https://idioms.thefreedictionary.com/pull+back+the+curtain
