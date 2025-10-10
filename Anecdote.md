@@ -71,3 +71,9 @@ OpenAI to scrub its content to train its models: users deleted their
 posts or edited them to fill them with nonsense. It is why people have  
 started attacking driverless taxis on the streets of San Francisco,  
 shouting that they’re putting humans out of work."
+
+### # Deloitte delivers report to government using AI which contained errors | ABC NEWS
+https://www.youtube.com/watch?v=C17KWJ02Goo
+
+# MLA Guidance on acknowledging AI use in the work 
+[[Beyond Citation Describing AI Use in Your Work]]

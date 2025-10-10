@@ -1,3 +1,39 @@
+Overall Goal:
+
+I am conducting a follow-up analysis for an academic experiment. Based on prior research, I have selected the medical device industry for my study.
+
+My goal is to identify specific, real-world "comparable trios" of public companies within this industry to serve as a basis for an anonymized case study.
+
+  
+
+Detailed Task Description:
+
+Your task is to conduct a deep analysis of the medical device industry and identify a distinct "comparable trios." A "comparable trio" is a set of three companies that are direct or close competitors, operating within the same specific sub-sector of the industry. The goal is finding the company trio such that participants are not able to easily know which company has highest stock price in the past 6 month. No famous firms should be included. The three companies should have similar market caps.
+
+Requirements for the Report:
+
+There are three distinctive sections in the report: information, analysis, and recommendation.
+
+The information section shows the fundamentals of business and the financial information. The analysis goes deep into the patterns of the information and analyze why pattern happen (e.g. why the revenue drops, why they decide to invest large in certain business). The recommendation gives final recommendation of one of the three companies. It is giving investor a clear recommendation why they should buy one of the three companies instead of the other two. It is okay to put in caution and analyze the bull/bear forecast. But still, here it is less about the analyzing but about recommendation. 
+
+Audience: The report must be written for a moderately financially literate adult. The language should be clear, direct, and professional.
+
+Clarity over Jargon: Avoid overly technical financial or industry jargon. Explain the "so what?" behind the data. For instance, instead of just "P/S ratio is 15x," state "The company is valued at a high 15 times its sales, indicating high market expectations for future growth."
+
+Objectivity (in Sections 1 & 2): The tone in the Information and Analysis sections should be objective and balanced.
+
+### Requirements for the Report:
+
+There are three distinctive sections in the report: information, analysis, and recommendation.
+
+The information section shows the fundamentals of business and the financial information. The analysis goes deep into the patterns of the information and analyze why pattern happen (e.g. why the revenue drops, why they decide to invest large in certain business). The recommendation gives final recommendation of one of the three companies. It is giving investor a clear recommendation why they should buy one of the three companies instead of the other two. It is okay to put in caution and analyze the bull/bear forecast. But still, here it is less about the analyzing but about recommendation. 
+
+Audience: The report must be written for a moderately financially literate adult. The language should be clear, direct, and professional.
+
+Clarity over Jargon: Avoid overly technical financial or industry jargon. Explain the "so what?" behind the data. For instance, instead of just "P/S ratio is 15x," state "The company is valued at a high 15 times its sales, indicating high market expectations for future growth."
+
+Objectivity (in Sections 1 & 2): The tone in the Information and Analysis sections should be objective and balanced.
+
 **Report Date:** July 21, 2025
 
 **Sector: Ophthalmic Medical Devices**

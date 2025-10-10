@@ -41,7 +41,7 @@ Similar to [[@stradiAlgorithmAversionAppreciation2025|(Stradi et al., 2025)]], I
 
 Disclosing the AI usage may not be favored by producer, because they may lose trust from evaluators. [[@schilkeTransparencyDilemmaHow2025|(Schilke et al., 2025)]]
 
-### Human-AI collaboration is the trend
+### Human-AI collaboration is the trend and we should know more about the preference about it
 Ethan Mollick's book Co-intelligence points out the “jagged frontier” of AI tools. To complete complicated tasks, it is necessary to have human input in some areas of weakness in AI. 
 More and more research discuss about the Human-AI collaboration increases the productivity.
 However, our research try to show that the productivity, as somewhat measured objectively, also missed the discussion on how people perceived the AI-assisted products. In lots of industries, 
@@ -50,6 +50,10 @@ More research is on the topic.
 Cathy et al. (2025, MS forthcoming) talks about the [[Emails from Andras#2025-08-18 09 13]]
 [[@caoManVsMachine2024]] uses AI-human financial analyst and compare the productivity between the two.
 
+### GenAI is causing problem and people are calling for disclosure
+
+[[Anecdote#Deloitte delivers report to government using AI which contained errors ABC NEWS]]
+[[Beyond Citation Describing AI Use in Your Work]]
 
 
 
@@ -60,6 +64,7 @@ Cathy et al. (2025, MS forthcoming) talks about the [[Emails from Andras#2025-08
 >In terms of decision-maker preferences between human and AI advisors, some research has found that decision-makers prefer human over AI advice (e.g., [Dietvorst et al., 2015](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref25); [Larkin et al., 2022](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref72)). This is one form of what is often referred to as algorithm aversion, or general negative attitudes and behaviors toward the algorithm ([Logg et al., 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref81); [Lai et al., 2021](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref69)). For example, [Larkin et al. (2022)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref72) found that participants indicated they would prefer to receive recommendations from a human expert versus AI in financial and, even more so, healthcare and contexts. Similarly, [Dietvorst et al. (2015)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref25) found that, across forecasting tasks on student performance and airline performance, decision-makers consistently chose human judgment when choosing between AI forecasts and either their own forecasts or the forecasts of another human participant.
 >
 >However, other research has found the converse (e.g., [Logg et al., 2019](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref81); [Kennedy et al., 2022](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref62)). For example, [Kennedy et al. (2022)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1390182/full#ref62) found that in geopolitical and criminal justice forecasting experiments, decision makers placed a higher weight on AI advice (i.e., forecasting algorithms) relative to several kinds of human advice (i.e., aggregate of expert decision-maker responses; aggregate of non-expert decision-maker responses)–in other words, algorithm appreciation rather than aversion.
+
 
 ### Credibility
 Credibility is both a systematic and heuristic evaluation.
@@ -73,12 +78,9 @@ Our work is different because we only say the AI 'involved'
 [[@toffTheyCouldJust2024]]
 [[@schilkeTransparencyDilemmaHow2025|Schilke et al. (2025)]]
 
-
-
-
 For these papers, they think about the AI label on message credibility, but they haven't looked into the credibility of the disclosure itself.
 
-
+One strand of papers are concerned about the AI perception and preference: do people like AI product or human product? Another strand of papers are concerned about the disclosure: do people prefer the product with AI disclosure?
 
 ### Contamination effects of AI transparency
 For producers, revealing the AI use maybe risky if they don't understand the reaction from evaluators.
@@ -136,19 +138,32 @@ We mention the report can be erroneous in the disclaimer.
 We would like to introduce some 'trusting' preference against the report suggestions.
 
 # Study method
-### Financial report and investment advice
-In this section, I am going to argue that the use of financial report in our setting has merits and can be externally valid; it is not a paper for finance journals but for organization/decision making.
-We use the setting of financial investment by choosing one of the three companies which has highest stock market return. 
-1) Financial setting is a scenario where rational decision making is imperative. 
+I first examined how disclosing AI use affected trust in the investment recommendation of a financial report. Participants read the same professional financial report but were shown different disclosures about AI use. Participants will be randomly assigned to one of nine experimental conditions. Eight of these conditions consist of a 2 (Information Gathering: AI vs. No AI) x 2 (Analysis: AI vs. No AI) x 2 (Recommendation: AI vs. No AI) between-subjects factorial design. The ninth condition, included for exploratory purposes, is a 'No Disclosure' group, where I remove the "Generative AI Disclosure" section in the investment report. Participants were randomly assigned to one of the nine conditions.
+
+The report compares and formulates recommendation to invest in one of the three companies. The report was claimed to be prepared by Verdian Equity Research, which is a fictitious company we named. The companies they will invest in are real listed companies.The report has three sections: Information, Analysis, and Recommendation. The Information provides fundamental business overview and the company financials of all three companies. The analysis part provides analysis on the business trends and explanations of the recent trend among the three companies. The recommendation part provides explicit recommendation to one of the three companies with reasons and cautions.  
+
+Participants enter the study, and they first read the introduction of the study.  They were told that it is a study about financial decision, that they will read a investment report and make their main investment decisions. The stakes are real and they will get monetary bonus if they choose the highest returned company over the six-month period. Participants were notified that the companies are real and their identities will be revealed at the end of the study. After reading the report, participants are asked to make an investment decision to choose one of the three companies to invest in. If participants choose the highest returned company in the last six month by the end of the period in the stock market, they will get a monetary bonus. The key independent variable is whether participants choose to invest in the recommended company in the report. 
+
+After making the main investment decisions, participants were asked about mechanism questions and demographic questions. When participants finish all the questions, I present the debrief about the hidden study purpose and explain why I need to use the deception. I also reveal the real names of the companies. 
+
+### Financial reports
+I use financial report in our setting that has merits and can be externally valid; it is not a paper for finance journals but for organization/decision making.
+We use the setting of financial investment by choosing one of the three companies which has highest stock market return. I used the financial investment setting for several reasons. 
+1) Financial setting is a scenario where rational decision making is imperative. The aesthetic or objective preference is tampered in financial investment scenario. Participants who aim to maximize their monetary return need to judge the information with caution, our manipulation will be more salient. Compared to industries like art or essay evaluation, the financial scenario is closer to what we want: participants use all the information judiciously and make their decisions. 
 2) Financial setting is easier to motivate the incentive. It feels natural to get bonus when they choose correctly the highest amount. It is easy to find objectively measured performance in stock market because the stock price is public. It creates an objective measured options for participants to use the information to make best decision.
-3) Financial setting is easier to implement our study goal of multiple roles in a task. It is natural and necessary to have gathering information, conducting analysis, and providing recommendation. 
+3) Financial setting is easier to implement our study goal of multiple roles in a task. It is natural and necessary to have gathering information, conducting analysis, and providing recommendation. Financial report is a complicated and it involved different thinking levels.
 4) It is essentially an "information industry". The report per se has no meaning unless people adopt the knowledge and recommendation in it. The setting is relevant to our study purpose: we want to have a inherently hard to predict scenario, where we rely on experts on the market to consolidate information, and we rely on the consolidated information to make decisions.
 
-Measuring the advice following is important and is commonly used in the literature. [[@yangMyAdvisorHer2025]]] uses the alignment of final decision with advice under AI or Human to measure.
+Some examples of AI preference and Financial context:
+Using the financial context is commonly used in the literature.
+[[@yangMyAdvisorHer2025]] uses the alignment of final decision with advice under AI or Human to measure.
+Merkle (2025) uses the rate at which participants follow the recommendation either from ChatGPT or from a financial professional.
+Stradi and Verdikt (2025) uses how investors are less responsive to forecasts when AI is incorporated.
 
+[[@caoManVsMachine2024]] tests the ability of AI stock analyst versus human analyst. The study shows that the AI investment advisor is gaining attention in academic setting.
 
-### Reports
-I prepared 4 reports.
+### How I prepared the reports
+To reduce the the template effects (potential specificity in one report with specific features that drives the results), I have prepared four reports. 
 
 The first two of the four reports were prepared by me with the help of Generative AI (Gemini 2.5 Pro). 
 Why I used Generative AI to help creating the reports? First, I want to at least have some parts of Generative AI involved because the reports should be not obvious for participants to tell if they are AI or human generated. Second, it is difficult for us to find existing equity research reports for our study purpose. We want to the reports to have relatively clear divisions of  gathering information, conducting analysis, and formalizing recommendation. Also, to simplify our study, we want the report to recommend one of three companies instead of generic recommendations. The specific requirements are difficult to achieve with existing real-world reports. 
@@ -158,24 +173,44 @@ For the industries, the requirements should be neutral and not evoke excessive p
 - General understanding capacity. In addition to the neutrality, I would also like to have the companies that are understandable to an extent. The understandability should be enough for participants to understand the business model and how they make profits. A counter example could be a highly specialized financial company using complicated financial derivatives to make profit.
 - Third, I also don't want the industry to be the industry that people use in their daily life. The prior familiarity may cause prior preference without the reports in the decision making process.
 
-After reviewing different industries that are aligned with the requirements above, I choose the Ophthalmic Medical Devices and HR Software industry. These two industries are aligned with the requirements. In addition, the two industries also introduce a variance in both manufacturing industry and software industry. 
+After reviewing different industries that are aligned with the requirements above, I choose the  Medical Devices and HR Software industry to create the investment report. These two industries are aligned with the requirements. In addition, the two industries also introduce a variance in both manufacturing industry and software industry. 
 
+I first use Gemini 2.5 Pro Deep Research to create a report for medical industry and HR software separately. I manually verified the information in the report and made changes in the report.
 
-After preparing the first 
+After preparing the one report for both Medical Device and HR Software, I proceed with creating two extra reports. To reduce the obvious AI cues and enhance the professional writing in the report, I ask professional writing firm to edit the reports. The four reports are not study conditions, and I pooled them into one of the study condition without making a distinction between them. I have conducted pre-testing to examine the quality across the report, and I did not find evidence that any of the reports are driving result patterns significantly.
 
+To ensure that people are making decisions based on the report materials, I have conducted two measures to prevent participants to look up the stock price by themselves.
+First, I use pseudonyms for all companies in our study. In the introduction section, I mention that all companies in the study are real, and participants will be informed about the real companies behind each pseudonym after the study. In addition, I also prevent participants from copying text in the survey. Disabling the copying can reduce the probability that participants use AI tools to guess the real names of the companies. 
 
+I set the end date of calculating the stock returns to be 10 days after the launch of the study. This aims to preserve the prediction feature of the report. It may cause difficulty and confusion if participants were asked to predict the price in the past. In addition, it also brings extra benefits of showing researchers are not cherry picking about the existing stock to fulfill the stock patterns.
 
+Which report should be recommended in the report? To avoid the bias of always recommending the best company or not recommending the best one,  I have prepared two situations that recommend both the actual highest return company and the other one does not. In the HR software industry, the recommended firm is different from the highest returned firm. The recommended firm is Kforce (KFRC), and the highest returned firm is Heidrick & Struggles (HSII). In the Ophthalmic Medical Device report, the recommended firm is the same as the highest return firm. The recommended and highest-returned firm is EyePoint Pharmaceuticals (EYPT). 
 
-### Report manipulation
+ The main goal of the report is 1) not obvious to audience that it is AI generated and 2) has variation in final selection. 
+ I have conducted a pre-testing experiment (N = 100) to show that people are able to tell to what extent the reports are generated by AI. It is consistent with the studies showing that it is difficult to tell AI-generated text and human writing (Waltzer et al., 2023; Gunser et al., 2021). The pre-testing results show that a majority of people think the texts are equally likely to be written by human or AI. 
+I have also conducted a pilot study (N = 40) to examine whether people will follow the report recommendation unanimously. One concern in the study is that participants may overlook the information and just follow the recommendation. The lack of decision variance may cause problem in low statistical power. In our pilot study, we do see that people are choosing companies other than the recommended. In addition, we also want to see if people are aware of the study purpose, which may cause the demand effect and bias the answer. We did not find any evidence about the highly concentrated choices in choosing the companies.
+### Participants
+I recruited participants from Prolific. To filter the participants best suited to the study purpose, I apply the following filters to the selection of potential participants: FILTER1, FILTER2...
+### Template effects
+To make sure the effects are not driven by particular features in the gender of report author, I assign the report author name to either the male, female, or neutral names. The names used were Christopher Davis, Sarah Brown, and J.M. Wright. 
+
+### Disclosure Manipulation
+At the end of the report, I included a "Generative AI disclosure" section. In the section, I 
 Participants will be randomly assigned to one of nine experimental conditions. Eight of these conditions consist of a 2 (Information Gathering: AI vs. No AI) x 2 (Analysis: AI vs. No AI) x 2 (Recommendation: AI vs. No AI) between-subjects factorial design. The ninth condition, included for exploratory purposes, is a 'No Disclosure' group, where I remove the "Generative AI Disclosure" section in the investment report. Each participant will only be exposed to one of the nine conditions.
-**
 
 We included the "No" because 1) there are real use of them in the industry to separate themselves with the others, and 2) [[@longDisclosureDilemmaHow2025]] shows there is no difference between the two. It is interesting that we found opposite results with them.
 
-# Pilot study
+# Pilot study in Appendix
 We implemented our pilot study with X participants. Compared to the actual survey, we implemented extra pre-testing questions.
 There are two sets of pre-testing questions. One set asks questions about the quality of the reports, and the other set asks the participants to guess the study purpose. The former is necessary because we want to 
-# Experiment #1
+# Study 1 Results
+I assess the main research question by examining the percentage of investment the recommended company by 
+
+### Disclosure Penalty 
+The results are presented in Figure 1. I found that the groups with AI disclosure are on average 13 percentage points lower than the group without AI disclosure in following the recommendation. It shows that if we randomly assign contents in the AI disclosure, people are on average less likely to follow the recommendation given in the financial report. The difference between the disclosure and non-disclosure groups are significant (T = -3.127, p = 0.002). 
+### Fully-AI disclosed report
+The groups with AI disclosure contains eight different manipulation conditions. What about these conditions? 
+I found that most groups 
 
 
 # Experiment #2
@@ -183,12 +218,13 @@ There are two sets of pre-testing questions. One set asks questions about the qu
 
 Meyer (1988) suggests a credibility model based on two factors: believability and community concern. We test the believability in the study and adapt a single-item question to ask to what extent do participants believe the Generative AI disclosure is a truthful representation of the actual AI use in report.
 
+Mayer and Davis (1999) adapted. We also see Schilke and Reimann (2025) adpated the scales to measure the trustworthiness of the financial advisor.
 
 
 
 ### Survey study
-### Cautionary actions
-We use pseudonyms in our study because we want our participants to use the report to make their decisions in choosing the highest return company. I also disabled the copy and paste in the survey to minimize the probability that participants use AI tools to guess the real names of the companies.
+
+
 
 
 # Prepare the reports

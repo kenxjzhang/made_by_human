@@ -489,3 +489,19 @@ Ken
 
 Pull back the curtain
 https://idioms.thefreedictionary.com/pull+back+the+curtain
+
+### 2025-10-07 16:43 Meeting with Andras
+A general scaffold of structure:
+-  AI is everywhere. It is important. Organizations are using AI now. 
+- AI using in the professional organizations are also causing problems. A way proposed is mandated disclosure. What do we know about the AI disclosure? Specifically, we need to understand the 1) disclosure penalty, and 2) how different disclosure impact differently. Create the conceptual distinctions about the things we want to test in the experiments.
+- An area of literature we want to look into is how people like or dislike AI-product compared to human products. The broad landscape has generated mixed evidence about whether people like or dislike AI product. Appreciation and Aversion literature in here.
+- In my research, I aim to test the two things together. First, I will show that regardless how people disclose their AI use, they would have a penalty in advice following rate. Second, there is a fair amount of further distrust in AI disclosure when asked about it. Empirical results. In Study 1 I did things. In Study 2 I did things. 
+- Study 1 design and results
+- Study 2 design and results.
+- Discussions:
+	- What did I do in the experiments?
+	- Disclosure v.s. Non-disclosure
+	- Partial results
+
+Side notes:
+- Find a way to frame the transition from Study 1 and Study 2

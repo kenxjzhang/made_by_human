@@ -55,7 +55,6 @@ Random 1/2 of participants:
 **Title:**
 Evaluate Professional Reports (~10 minutes)
 
-
 Descriptions:
 Hello! We are researchers studying how people perceive professionally written documents.
 
@@ -73,7 +72,6 @@ A desktop or laptop is strongly recommended for this task.
 Your responses are completely anonymous. Thank you for your contribution to our research!
 
 
-
 # Pre-testing for reports
 ### Pre-testing
 In the pre-testing, we want to make sure that our reports are not totally obvious that they are definitely AI-generated, because that would make our disclaimer in the study less credible. We don't want our participants to hold a strong belief that the report is definitely AI generated when our AI disclosure says the whole report does not involve AI. As a result, we want to see a variance among people who think the report is by human or AI, or people who can not tell the source of the report.
@@ -84,7 +82,7 @@ Question 1: "Based on your own impression of the reports, how likely is it that 
 Question 2: “What aspects of the text influenced your rating? Please share your perspectives.”
 
 >By the way, when we run pre-tests of manipulation (as a kind of pre-experimental manipulation check), usually, we hope to find a significant difference (e.g., if I want to signal that one applicant is from a higher social class background than the other, then I'd want to see that participants taking the pretest perceive that candidate to be significantly higher on the relevant variables). But in cases like this one, I think you basically just want to rule out anything that would be really disruptive for the experiment. So, for example, if you find that, on average, people can't really tell with a lot of certainty whether a report was AI or human-authored (or at least you don't find evidence suggesting that they do), that would be a helpful thing, because it would mean that your actual manipulations (your labels) won't be seen as obvious lies by most respondents. So, in that sense, not getting a clear signal and having some evidence consistent with ambiguity would be a helpful feature in this case. Does that make sense?
->
+
 
 The results show that people are not systematically think the reports are written by AI or written by human. 
 [[asset/d0fa888a17b751d0bf89f81de6606c52_MD5.jpeg|Open: Code_Generated_Image.png]]
@@ -101,7 +99,7 @@ The difficulty in detection is not surprising. Previous studies show that even e
 The main idea of pilot study is: 
 1) testing the validity of the study
 2) see if people can guess the study purpose. 
-We recruited 121 participants in the pilot study. 
+We recruited 40 participants in the pilot study. 
 For 1), we want to see there is a variance in choosing the reports. We don't want to see that people always choose one of the three companies in the report. For whatever reasons, if people are choosing the same company all the time, we are not able to find the meaningful variance in how AI labels would change their decision making. In our pilot study, we implemented the same survey flow as in the main study—consent, introduction, materials, and main Investment decisions—to test whether the people make different choices in the company. 
 Our results show that people did not blindly followed the report recommendation or any other particular company.
 > - Celestial Optics (CELO): 11 (Highest returned)
